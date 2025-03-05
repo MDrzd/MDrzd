@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
