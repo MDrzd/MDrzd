@@ -10,3 +10,7 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MDrzd&show_icons=true&locale=en" alt="MDrzd" /></p>
 
 <h1 align="left"> Support Me</h1>
+
+
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
