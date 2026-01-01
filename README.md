@@ -5,7 +5,5 @@ MDrzd/MDrzd is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MDrzd&show_icons=true&locale=en&layout=compact" alt="MDrzd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MDrzd&show_icons=true&locale=en" alt="MDrzd" /></p>
-
+  ![MDrzd Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=skyv26&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+  
