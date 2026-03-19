@@ -1,6 +1,11 @@
 # 👋 Hi, I’m @MDrzd
 
-I'm a developer passionate about Android.  
+I'm an **Android developer** and **app modder**. I enjoy building custom apps, modifying existing apps to add features, and exploring creative solutions in mobile development.  
+I like experimenting with **modding tools**, reverse engineering apps, and learning how apps work under the hood.  
+
+ **Skills & Interests:** Android Development, App Modding, Java, Smali, Reverse Engineering, Open Source Projects  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MDrzd&layout=compact&langs_count=8&count_private=true&theme=dark)](https://github.com/MDrzd)
 
 <!-- GitHub Streak Stats -->
 <p align="center">
