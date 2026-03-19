@@ -2,6 +2,9 @@
 
 I'm a developer passionate about Android.  
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MDrzd&theme=dark" alt="intbyte-100" /></p>
+<
+
 [![MDrzd github stats](https://github-readme-stats.vercel.app/api?username=MDrzd&show_icons=true&theme=dark&count_private=true)](https://github.com/MDrzd)
 
 ## 📊 GitHub Activity
